@@ -8,4 +8,4 @@ Branches are useful to make different versions of a project. They make it easy a
 
 How do the diagrams help you visualize the branch structure? They make it easy to see where branches occur, you don't have to check the git log for every branch and move back and forth.
 
- 
+What is the result of merging two branches together? The changes that were made seperately are coming together in one version. All the previous commits stay accessible. 
