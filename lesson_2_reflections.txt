@@ -5,3 +5,7 @@ The staging area provides safety, mistakes can still be undone. It contains only
 In the staging area it is easy to see what the changes are, so that you can check whether a commit is logical.
 
 Branches are useful to make different versions of a project. They make it easy and safe to change one path, while keeping the other one intact. They also keep the feel of one project, instead of copying everything and starting again somewhere else. You can merge parts together.
+
+How do the diagrams help you visualize the branch structure? They make it easy to see where branches occur, you don't have to check the git log for every branch and move back and forth.
+
+ 
