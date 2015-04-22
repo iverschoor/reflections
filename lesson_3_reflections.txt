@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you work with more people on a project or when you want to access your work from different locations. It is also safer to have your work on GitHub, if your computer crashes it's still there.
